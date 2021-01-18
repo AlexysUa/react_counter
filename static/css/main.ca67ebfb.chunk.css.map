@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","Counter.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,QAAS,CACT,OAAQ,CACR,8BAAgC,CCJlC,KACE,iBAAkB","file":"main.ca67ebfb.chunk.css","sourcesContent":[".App {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  transform: translate(-50%, -50%);\n}\n",".btn {\n  margin-right: 10px;\n}\n"]}
